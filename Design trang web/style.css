@@ -1,0 +1,43 @@
+body {
+    font-size: 16px;
+    line-height: 0px;
+    color: #454545;
+    font-family: "Montserrat";
+}
+
+.header {
+    background-color: blue;
+
+}
+
+.main_image {
+}
+
+.content_navigation ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        display: inline;
+}
+
+.content_navigation li {
+    display: inline;
+}
+
+.content_news {
+}
+
+.content_features {
+}
+
+.content_subscription {
+}
+
+.content-items {
+}
+
+.footer {
+    font-size: 14px;
+    text-align: center;
+}
